@@ -25,7 +25,3 @@ I'm a **Software Engineer** specializing in **Artificial Intelligence** and **So
 - **Website:** [hanihaddad.live](https://hanihaddad.live)
 - **Email:** [hanihaddad111@gmail.com](mailto:hanihaddad111@gmail.com)
 - **LinkedIn:** [henihaddad](https://www.linkedin.com/in/henihaddad/)
-
----
-
-Feel free to customize this further to add any personal touches or additional links. This format keeps it concise and focused on the key highlights suitable for a GitHub profile.

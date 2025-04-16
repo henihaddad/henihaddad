@@ -24,4 +24,4 @@ I'm a **Software Engineer** specializing in **Artificial Intelligence** and **So
 
 - **Website:** [henihaddad.com](https://henihaddad.com)
 - **Email:** [heni@henihaddad.com](mailto:heni@henihaddad.com)
-- **LinkedIn:** [henihaddad](https://www.linkedin.com/in/henihaddad/)
+- **LinkedIn:** [henihaddad](https://www.linkedin.com/in/hani-haddad1/)

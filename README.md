@@ -22,6 +22,6 @@ I'm a **Software Engineer** specializing in **Artificial Intelligence** and **So
 
 ## 📫 Get in Touch
 
-- **Website:** [hanihaddad.live](https://hanihaddad.live)
-- **Email:** [hanihaddad111@gmail.com](mailto:hanihaddad111@gmail.com)
+- **Website:** [henihaddad.com](https://henihaddad.com)
+- **Email:** [heni@henihaddad.com](mailto:heni@henihaddad.com)
 - **LinkedIn:** [henihaddad](https://www.linkedin.com/in/henihaddad/)

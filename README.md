@@ -2,7 +2,7 @@
 
 **Software Engineer | AI Enthusiast**
 
-[![Website](https://img.shields.io/badge/Website-hanihaddad.live-blue?style=flat&logo=google-chrome&logoColor=white)](https://hanihaddad.live)
+[![Website](https://img.shields.io/badge/Website-henihaddad.com-blue?style=flat&logo=google-chrome&logoColor=white)](https://henihaddad.com)
 [![Email](https://img.shields.io/badge/Email-hanihaddad111%40gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:hanihaddad111@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-henihaddad-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henihaddad/)
 
